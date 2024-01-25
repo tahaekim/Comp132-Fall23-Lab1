@@ -1,5 +1,5 @@
 # Lab-1 Prelab - Enhanced Dice Game
-![](Fall23-Lab1/img/dices.jpeg?raw=true "")
+![](Fall23-Lab1/img/dices.jpeg)
 
 Using the object-oriented programming concepts covered so far, your task is to implement a dice roll game between two players. There will be a predetermined (fixed) number of rounds of this game, and at each round, the player with the highest value of the dice roll wins the round. At the end of all the rounds, the player with the largest sum of scores over all the rounds wins the game. 
 
