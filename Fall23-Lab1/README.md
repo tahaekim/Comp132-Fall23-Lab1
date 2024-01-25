@@ -1,29 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/vWp3THmF)
-# COMP 132, Fall 2023
-
-# IMPORTANT
-
-For each lab assignment, **you must include and sign (by writing your name and student id number) the following Pledge of Honor statement at the beginning of your main method source code file. After including this statement, make sure that you do the commit and push operation on GitHub. Otherwise, your lab solution will not be graded.**
-```
-/* *********** Pledge of Honor ************************************************ *
-
-I hereby certify that I have completed this lab assignment on my own
-without any help from anyone else. I understand that the only sources of authorized
-information in this lab assignment are (1) the course textbook, (2) the
-materials posted at the course website and (3) any study notes handwritten by myself.
-I have not used, accessed or received any information from any other unauthorized
-source in taking this lab assignment. The effort in the assignment thus belongs
-completely to me.
-READ AND SIGN BY WRITING YOUR NAME SURNAME AND STUDENT ID
-SIGNATURE: <Name Surname, Student id>
-********************************************************************************/
-```
-## IMPORTANT NOTE 2: After you complete the tasks, do not forget to commit your changes and push them to your repository on Github.
-
-## IMPORTANT NOTE 3: This README.md file only contains the instructions for PRELAB. You will also have INLAB questions.
-
 # Lab-1 Prelab - Enhanced Dice Game
-![](/img/dices.jpeg?raw=true "")
+![](Fall23-Lab1/img/dices.jpeg?raw=true "")
 
 Using the object-oriented programming concepts covered so far, your task is to implement a dice roll game between two players. There will be a predetermined (fixed) number of rounds of this game, and at each round, the player with the highest value of the dice roll wins the round. At the end of all the rounds, the player with the largest sum of scores over all the rounds wins the game. 
 
